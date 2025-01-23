@@ -2,12 +2,12 @@
  
 # Projeto Business Intelligence - Fiber
 
-Este projeto foi elaborado durante o processo de certificação do Google Business Intelligence Certificate e tem como objetivo principal desenvolver uma **ferramenta de Business Intelligente**, que suporte a tomada de decisão dos times de negócios, passando pelas etapas: planejamento do projeto, preparação dos dados e criação do dashboard.
+Este projeto foi elaborado durante o processo de certificação do Google Business Intelligence Certificate e tem como objetivo principal desenvolver uma **ferramenta de Business Intelligente**, que suporte a tomada de decisão dos times de negócios, passando pelas etapas: preparação dos dados e criação do dashboard.
 
 ## Resultados e insights:
 Abaixo listei os principais resultados e insights gerados ao time de atendimento, focado em melhorar o operacional de atendimento ao cliente.
 
-## Fiber project - Atendimento
+### Fiber project - Customer service
 <img src="img/dash_contact.png">
 
 
@@ -17,10 +17,10 @@ Abaixo listei os principais resultados e insights gerados ao time de atendimento
 Desta forma esses são os melhores pontos para:
 <br>
 💡 O tipo 5 (internet e wifi) representa 48% dos motivos das chamadas e se estende até 3 contatos para resolução total. Assim sendo o primeiro tipo que deve receber tratativa para resolução, seguido do tipo 2 (problemas técnicos), que representa 40% das chamadas.
-- A tratativa dos dois tipos reduzem 75k de chamadas e rechamadas ao atendimento - otimizando 88% do total.
+<br>
+💡💡 A tratativa dos dois tipos reduzem 75k de chamadas e rechamadas ao atendimento - otimizando 88% do total.
 <br>
 💡 O números de chamadas não apresentam alterações significaticas que possam atrelar a sazonalidade ao longo do primeiro trimestre, porém não se pode afirmar o mesmo padrão ao longo do ano, uma vez que a amostra analisada não contém informações referente aos demais trimestres.
------
 <br>
 
 ### Processo de desenvolvimento do projeto:
@@ -42,7 +42,7 @@ As informações são extraídas, tratadas (limpeza de nulos e filtro do períod
 >- Python
 >- Power BI
 
-## 3. Dashboard
+## 2. Dashboard
 As tabelas tratados foram integradas com o Looker Studio para a criação do dashboard, que permite a visualização clara e iterativa dos indicadores estabelecidos no planejamento. O dashbaord foi subdividido em 4 visualizações, para facilitar a interpretação dos dados.
 - Totais por mês, tipo, contato 0, contato 1 e contato 2.
 
